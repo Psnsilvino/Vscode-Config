@@ -26,4 +26,5 @@
         ".title-label > h2": "display: none"
     },
     "workbench.colorTheme": "Min Dark",
+    "editor.fontLigatures": true,
 }
