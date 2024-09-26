@@ -27,4 +27,5 @@
     },
     "workbench.colorTheme": "Min Dark",
     "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
 }
